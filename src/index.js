@@ -16,7 +16,7 @@ import './index.css'
 // //3) nested arrow
     // const Greet =()=>{
     //   return React.createElement('div',{},React.createElement('h2',{},"Hello"))
-    // }
+    // }}}
 
 
 // --------nested compoments and tools.------------//
